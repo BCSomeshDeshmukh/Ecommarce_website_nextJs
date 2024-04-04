@@ -27,7 +27,7 @@ export default function CheckoutNow({currency, description,image, name, price,pr
         <Button onClick={()=>{
             buyNow(product.price_id)
         }}>
-            Add to Cart
+            Checkout now
         </Button>
     )
 }
