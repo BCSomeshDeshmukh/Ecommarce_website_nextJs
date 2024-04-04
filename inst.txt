@@ -1,0 +1,11 @@
+1.installing next js : npx create-next-app@latest
+2.installing shadcn : npx shadcn-ui@latest init 
+shadcn is a component library.
+installed it and chaged color to violet 
+
+3. npm i use-shopping-cart stripe next-sanity @stripe/stripe-js @sanity/image-url
+
+then we make the 1) product.ts, then we made the 2) we were making categories.ts
+    
+
+
